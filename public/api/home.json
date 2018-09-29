@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "简书电影",
+        "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articalList": [
+      {
+        "id": 1,
+        "title": "1为什么很多年轻人宁愿选择三千的工作，却不愿意待在工厂做拿五千的工作",
+        "desc": "为什么很多年轻人宁愿选择三千的工作，却不愿意做待在工厂拿五千的工作 金九银十，现在又到了换工作的“黄金时期”。 我们会有各种各样的原因，来辞掉现...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2717905-f513e1e4df855358.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 2,
+        "title": "2为什么很多年轻人宁愿选择三千的工作，却不愿意待在工厂做拿五千的工作",
+        "desc": "为什么很多年轻人宁愿选择三千的工作，却不愿意做待在工厂拿五千的工作 金九银十，现在又到了换工作的“黄金时期”。 我们会有各种各样的原因，来辞掉现...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2717905-f513e1e4df855358.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 3,
+        "title": "3为什么很多年轻人宁愿选择三千的工作，却不愿意待在工厂做拿五千的工作",
+        "desc": "为什么很多年轻人宁愿选择三千的工作，却不愿意做待在工厂拿五千的工作 金九银十，现在又到了换工作的“黄金时期”。 我们会有各种各样的原因，来辞掉现...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2717905-f513e1e4df855358.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 4,
+        "title": "4为什么很多年轻人宁愿选择三千的工作，却不愿意待在工厂做拿五千的工作",
+        "desc": "为什么很多年轻人宁愿选择三千的工作，却不愿意做待在工厂拿五千的工作 金九银十，现在又到了换工作的“黄金时期”。 我们会有各种各样的原因，来辞掉现...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/2717905-f513e1e4df855358.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ]
+  }
+}
